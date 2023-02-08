@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+beanie
+python-dotenv
+azure-identity
+azure-keyvault-secrets
+opentelemetry-instrumentation-fastapi
+azure-monitor-opentelemetry-exporter
+certifi
+click
+azure-cosmos
+h11
+starlette
+aiohttp
+opencensus
+opencensus-ext-azure
+opencensus-ext-logging
